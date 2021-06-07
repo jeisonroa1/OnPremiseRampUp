@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-sudo -u vagrant git clone https://github.com/juan-ruiz/movie-analyst-$(hostname).git
+sudo -u vagrant git clone https://github.com/jeisonroa1/movie-analyst-$(hostname).git
 sudo apt-get -y update
 sudo apt-get -y upgrade
 sudo apt-get -y install npm
